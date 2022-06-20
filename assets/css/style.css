@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Bebas Neue', cursive !important;
+    }
+    body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    }
+    h1 {
+    font-weight: 800;
+    font-size: 3.75em;
+    margin-bottom: 0.25em;
+    }
+    .titulo {
+    text-align: right;
+    background-image: url('../img/canasta.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 6.25rem 3.125rem;
+    }
+    h2{
+      text-align: center;
+      text-decoration: underline; 
+      color: #707070;
+      padding-top: 2em;
+     
+    }
+    .card-total{
+      border:#707070 5px double; 
+    }
+    .trabajos{
+      width: 1000px;
+    }
+    .card-text{
+      color: #707070;
+    }
+    footer{
+      background-color: #000f08;
+      text-align: center;
+      margin-top: 3em;
+     padding-top: 2em;
+     padding-bottom: 2em;
+     color:  #707070;
+    }
+    #contacto a, p {
+      display: inline;
+      padding-right: 0.5em;
+      text-decoration: none;
+    }
+    
+    
